@@ -17,7 +17,8 @@ And the bot will answer with a Trump quote, hopefully one that relates to what y
 
 Here are some examples:
 
-![wwtd1](images/wwtd1.png)
+|![wwtd1](images/wwtd1.png)|
+![wwtd2](images/wwtd2.png)
 ---
 
 Hubot README info below. Not deleting this just yet.
