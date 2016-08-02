@@ -15,9 +15,11 @@ And the bot will answer with a Trump quote, hopefully one that relates to what y
 [hubot]: http://hubot.github.com
 
 ---
+---
 
 Hubot README info below. Not deleting this just yet.
 
+---
 ---
 
 ### Running wwtd Locally
