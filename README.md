@@ -1,12 +1,21 @@
 # wwtd
 
-wwtd is a chat bot built on the [Hubot][hubot] framework. 
+WWTD is a slackbot built on the [Hubot][hubot] framework. 
+
+This only works if you run this locally. Instructions will be added in the future, but below are the generic ones from [Hubot][hubot].
+
+Once it's running you can type in "/wwtd [your question]" like this:
+
+    /wwtd What should I eat for dinner tonight?
+
+And the bot will answer with a Trump quote, hopefully one that relates to what you've asked:
+
+    Trump steaks are the best.
 
 [hubot]: http://hubot.github.com
-
 ---
 
-Hubot README info:
+Hubot README info below. Not deleting this just
 
 ### Running wwtd Locally
 
