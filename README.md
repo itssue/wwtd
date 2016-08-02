@@ -13,9 +13,13 @@ And the bot will answer with a Trump quote, hopefully one that relates to what y
     Trump steaks are the best.
 
 [hubot]: http://hubot.github.com
+
+
+
+
 ---
 
-Hubot README info below. Not deleting this just
+Hubot README info below. Not deleting this just yet.
 
 ### Running wwtd Locally
 
