@@ -1,10 +1,9 @@
 # wwtd
 
-//////////
 
 **Just to clear up any confusion, I did not vote for Trump. I am not a supporter.**
 
-//////////
+---
 
 WWTD is a slackbot built on the [Hubot][hubot] framework. 
 
