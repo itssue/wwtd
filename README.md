@@ -19,13 +19,15 @@ Here are some examples:
 
 ![wwtd1](images/wwtd1.png)
 
+
 ![wwtd2](images/wwtd2.png)
 
----
+//////////
 
-Just to clear up any confusion, I did **not** vote for Trump. I am **not** a supporter.
+**Just to clear up any confusion, I did not vote for Trump. I am not a supporter.**
 
-/////
+//////////
+
 
 Hubot README info below. 
 
