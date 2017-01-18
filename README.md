@@ -1,5 +1,11 @@
 # wwtd
 
+//////////
+
+**Just to clear up any confusion, I did not vote for Trump. I am not a supporter.**
+
+//////////
+
 WWTD is a slackbot built on the [Hubot][hubot] framework. 
 
 This only works if you run this locally. Below are the generic instructions from [Hubot][hubot].
@@ -22,12 +28,9 @@ Here are some examples:
 
 ![wwtd2](images/wwtd2.png)
 
-//////////
 
-**Just to clear up any confusion, I did not vote for Trump. I am not a supporter.**
 
-//////////
-
+---
 
 Hubot README info below. 
 
