@@ -2,11 +2,11 @@
 
 WWTD is a slackbot built on the [Hubot][hubot] framework. 
 
-This only works if you run this locally. Instructions will be added in the future, but below are the generic ones from [Hubot][hubot].
+This only works if you run this locally. Below are the generic instructions from [Hubot][hubot].
 
-Once it's running you can type in "/wwtd [your question]" like this:
+Once it's running you can type in "wwtd [your question]" like this:
 
-    /wwtd What should I eat for dinner tonight?
+    wwtd What should I eat for dinner tonight?
 
 And the bot will answer with a Trump quote, hopefully one that relates to what you've asked:
 
@@ -18,11 +18,16 @@ And the bot will answer with a Trump quote, hopefully one that relates to what y
 Here are some examples:
 
 ![wwtd1](images/wwtd1.png)
+
 ![wwtd2](images/wwtd2.png)
 
 ---
 
-Hubot README info below. Not deleting this just yet.
+Just to clear up any confusion, I did **not** vote for Trump. I am **not** a supporter.
+
+/////
+
+Hubot README info below. 
 
 ---
 
